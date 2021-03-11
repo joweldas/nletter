@@ -1,0 +1,85 @@
+*{margin: 0;padding: 0}
+.header{background-color: black;
+text-align: center;padding-top: 25px;
+padding-bottom: 25px;}
+a {text-decoration: none;}
+
+.header ul li {list-style: none;margin-right: 25px;
+ display: inline-block; text-transform: uppercase;}
+
+.header ul li a {color: cornsilk;}
+
+.newle{text-align: center;font-size: 50px;
+padding-top: 30px;padding-bottom: 30px}
+p{text-align: center;font-size: 22px;s}
+.f9{text-align: center; }
+.i1{text-align: center;padding: 15px;width: 25%;transition: .5s ease-in-out}
+.i2{text-align: center;padding: 15px;width: 25%}
+.i3{background-color:black;color: white;width: 10%;
+padding: 15px;border-radius: 16px;margin-top: 30px; 
+border: none;}
+.i3:hover{ background-color: violet;cursor: pointer; }
+
+.second{color: blue;text-align: center;padding-top: 50px;
+}
+.hlw{text-align: center;font-size: 20px;
+	font-weight: bold;padding-top: 15px;}
+.f1{text-align: center;}
+.i4{margin-top: 15px;padding-bottom: 15px;
+	text-align: center;}
+.f2{text-align: center;}
+.i5{margin-top:10px; padding-bottom: 15px;
+text-align: center;}
+.f3{text-align: center; margin-top: 15px;}
+.t1{padding-bottom: 20%; width: 25%}
+.f4{text-align: center;margin-top: 7px:;}
+.i6{padding-bottom: 5px; font-weight: bold;}
+.i6:hover{background-color:green;cursor: pointer;}
+
+
+.footer{background-color: black;
+width: 100%; padding-top:2%;
+padding-bottom: 2%; margin-top: 20px;margin-bottom: 20px}
+
+.col h6 {color: white;font-weight: 700;
+font-size: 16px;margin-bottom: 10px}
+.container{width: ;margin: 5%;
+	padding:20px;}
+.col .menu ul li a {color: #CECECE;font-size: 16px;
+line-height: 26px;}
+	.footer-menu{display: flex;
+		justify-content:space-around;}
+
+
+
+
+
+hr{background-color: #CECECE;margin: 20px 0;
+height: .5px;}
+
+
+.footer-bottom ul li {list-style: none;
+	display: inline-block;
+border-right:2px solid #CECECE;
+ padding-right: 15px;margin-right: 5px; } 
+	.footer-bottom ul li a{color: #CECECE;
+	}
+.lst{ border-right:0px!important}
+.note{color:#CECECE;font-size: 16px;
+height: ;
+ text-align: left;margin-top: 20px;}
+
+ .social-icon ul li  {
+ 	list-style: none;display: inline-block;
+ 	margin-top: 20px;margin-left: 6px;
+	}
+.social-icon ul li a i {color: white;size: 30px;
+width: 40px;height: 40px;background-color: tomato;
+border-radius: 50px;text-align: center;line-height:40px;
+border: 2px solid black;transition: .5s ease-in-out;}
+.social-icon ul li a i:hover{
+	border: 2px solid white;
+	
+	transition: .5s ease-in-out;
+	transform: rotate(360deg);
+} 
